@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Newsletter</title>
+</head>
+
+<body style="margin:0; padding:0; background-color:#f4f4f4;">
+
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#f4f4f4">
+    <tr>
+      <td align="center">
+
+        <table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" style="margin:0px 0;">
+
+          <!-- IMAGEM -->
+          <tr>
+            <td align="center">
+              <img 
+                src="https://email-editor-production.s3.amazonaws.com/images/1154376/WhatsApp%20Image%202026-04-06%20at%2015.32.33.jpeg"
+                alt="Newsletter"
+                width="600"
+                style="display:block; width:100%; max-width:600px; border:0;">
+            </td>
+          </tr>
+
+        </table>
